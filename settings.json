@@ -1,0 +1,22 @@
+{
+    // 工作空间图标主题
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontSize": 16,
+    "editor.fontFamily": "JetBrains Mono, “微软雅黑”",
+    // 字体连字
+    "editor.fontLigatures": true,
+    // 右侧编辑器聚焦时，资源管理器自动打开对应目录
+    "explorer.autoReveal": false,
+    // npm 默认包管理器
+    "npm.packageManager": "yarn",
+    // sass 默认格式化程序
+    "[sass]": {
+        "editor.defaultFormatter": "syler.sass-indented"
+    },
+    // 显示控制字符
+    "editor.renderControlCharacters": true,
+    // 显示空格,tab等
+    "editor.renderWhitespace": "all",
+    // git 是否开启
+    "git.enabled": false
+}

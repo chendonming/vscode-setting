@@ -1,0 +1,18 @@
+// 插件清单
+[
+    {
+        "name": "Auto Rename Tag"
+    },
+    {
+        "name": "formate:CSS/LESS/SCSS/formatter"
+    },
+    {
+        "name": "One Dark Pro"
+    },
+    {
+        "name": "Sass"
+    },
+    {
+        "name": "vscode-icons"
+    }
+]
