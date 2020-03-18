@@ -1,7 +1,6 @@
 {
     // 工作空间图标主题
     "workbench.iconTheme": "vscode-icons",
-    "editor.fontSize": 16,
     "editor.fontFamily": "JetBrains Mono, “微软雅黑”",
     // 字体连字
     "editor.fontLigatures": true,
@@ -18,5 +17,17 @@
     // 显示空格,tab等
     "editor.renderWhitespace": "all",
     // git 是否开启
-    "git.enabled": false
+    "git.enabled": true,
+    "editor.fontSize": 16,
+    "eslint.alwaysShowStatus": true,
+    "editor.formatOnSave": true,
+    "eslint.format.enable": true,
+    "eslint.packageManager": "yarn",
+    "[vue]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "files.eol": "\n",
 }
