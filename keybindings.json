@@ -7,5 +7,9 @@
     {
         "key": "ctrl+shift+x",
         "command": "editor.action.transformToLowercase"
+    },
+    {
+        "key": "alt+x",
+        "command": "eslint.executeAutofix"
     }
 ]
